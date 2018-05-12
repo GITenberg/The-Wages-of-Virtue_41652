@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3626
     wikipedia: http://en.wikipedia.org/wiki/P._C._Wren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41652#The-Wages-of-Virtue
 gutenberg_issued: '2012-12-17'
 gutenberg_type: Text
 identifiers:
